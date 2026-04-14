@@ -2,4 +2,4 @@
 
 PHYSICS ASPIRIENT AND ML DEVELOPER 
 
--Here my [https://www.shutterstock.com/search/artificial-intelligence-machine]
+-Here my (https://www.shutterstock.com/search/artificial-intelligence-machine)
