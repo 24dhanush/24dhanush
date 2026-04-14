@@ -2,6 +2,7 @@
 
 PHYSICS ASPIRIENT AND ML DEVELOPER 
 
-- Here's my [portfolio]
+- 🔍 Here's my [portfolio]
 
-- currently learning AI and ML
+- 📖 currently learning AI and ML
+  
