@@ -2,6 +2,6 @@
 
 PHYSICS ASPIRIENT AND ML DEVELOPER 
 
--Here's my [portfolio](https://www.shutterstock.com/search/artificial-intelligence-machine)
+- Here's my [portfolio]
 
--current learning AI and ML
+- currently learning AI and ML
